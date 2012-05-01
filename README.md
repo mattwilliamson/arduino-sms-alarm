@@ -78,7 +78,7 @@ Now, whevever motion is detected in the infra-red spectrum (think body heat), `s
 
 ![X-Wing Car](https://raw.github.com/mattwilliamson/arduino-sms-alarm/master/action_shots/xwingcar.jpg)
 
-**YUM**
+**YUM** (Makes a nice case)
 
 ![Sabra Hummus Single Serve](https://raw.github.com/mattwilliamson/arduino-sms-alarm/master/action_shots/sabra.jpg)
 
