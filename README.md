@@ -31,6 +31,7 @@ It will send an SMS to you every 30 minutes while motion is detected (configurab
 1. Attach **OUT** on the PIR sensor to **DIGITAL 2** on the Arduino
 
 ![Schematic](https://raw.github.com/mattwilliamson/arduino-sms-alarm/master/action_shots/Schematic_bb.png)
+![Wired Up](https://raw.github.com/mattwilliamson/arduino-sms-alarm/master/action_shots/wired_up.png)
 
 
 ## Upload the sketch
@@ -73,13 +74,12 @@ Now, whevever motion is detected in the infra-red spectrum (think body heat), `s
 
 
 
-Action Shots
-============
-
 ** BEEP BEEP WHISTLE**
+
 ![X-Wing Car](https://raw.github.com/mattwilliamson/arduino-sms-alarm/master/action_shots/xwingcar.jpg)
 
 ** YUM **
+
 ![Sabra Hummus Single Serve](https://raw.github.com/mattwilliamson/arduino-sms-alarm/master/action_shots/sabra.jpg)
 
 
