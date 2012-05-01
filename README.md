@@ -12,7 +12,7 @@ It will send an SMS to you every 30 minutes while motion is detected (configurab
 * Python
 * Python library *pyserial* installed
 * Python library *requests* installed
-* A [TelAPI](http://telapi.com) account
+* A [TelAPI](http://goo.gl/A36VN) account
 * An [Arduino](http://arduino.cc)
 * A [Parallax PIR sensor](http://www.parallax.com/tabid/768/ProductID/83/Default.aspx)
 * Some [female-female jumper wires](http://adafruit.com/products/266)
