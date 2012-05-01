@@ -73,6 +73,12 @@ Now, whevever motion is detected in the infra-red spectrum (think body heat), `s
 ![Cut a hole](https://raw.github.com/mattwilliamson/arduino-sms-alarm/master/action_shots/complete.png)
 
 
+Video
+=====
+
+Quick video on youtube: http://youtu.be/9AuOZ4iV9zY
+
+
 
 **BEEP BEEP WHISTLE**
 
