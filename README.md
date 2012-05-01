@@ -74,11 +74,11 @@ Now, whevever motion is detected in the infra-red spectrum (think body heat), `s
 
 
 
-** BEEP BEEP WHISTLE**
+**BEEP BEEP WHISTLE**
 
 ![X-Wing Car](https://raw.github.com/mattwilliamson/arduino-sms-alarm/master/action_shots/xwingcar.jpg)
 
-** YUM **
+**YUM**
 
 ![Sabra Hummus Single Serve](https://raw.github.com/mattwilliamson/arduino-sms-alarm/master/action_shots/sabra.jpg)
 
