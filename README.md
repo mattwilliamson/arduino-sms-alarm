@@ -83,3 +83,6 @@ Now, whevever motion is detected in the infra-red spectrum (think body heat), `s
 ![Sabra Hummus Single Serve](https://raw.github.com/mattwilliamson/arduino-sms-alarm/master/action_shots/sabra.jpg)
 
 
+Free $25 credit when you sign up for a [TelAPI](http://goo.gl/A36VN) account!
+
+
