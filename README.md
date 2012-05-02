@@ -37,7 +37,7 @@ It will send an SMS to you every 30 minutes while motion is detected (configurab
 ## Upload the sketch
 
 1. Plug your Arduino into your computer
-1. Open the `arduino_pir/arduino_pit.ino` sketch with the Arduino IDE
+1. Open the `arduino_pir/arduino_pit.ino` sketch with the [Arduino IDE](http://arduino.cc/hu/Main/Software)
 1. Select your serial port (Tools>Serial Port) and click Upload
 
 Your arduino LED will now be blnking. This means the PIR sensor is calibrating.
@@ -46,7 +46,7 @@ Your arduino LED will now be blnking. This means the PIR sensor is calibrating.
 ## Setup the server
 
 1. Open server.py with a text editor
-1. Change the value of `SERIAL_PORT` to the serial port you set in the Arduino IDE. For Windows it might look like *COM2*, for Posix systems, it might look like */dev/tty.usbserial-AH00PP05*
+1. Change the value of `SERIAL_PORT` to the serial port you set in the [Arduino IDE](http://arduino.cc/hu/Main/Software). For Windows it might look like *COM2*, for Posix systems, it might look like */dev/tty.usbserial-AH00PP05*
 1. Change the value of `SMS_FROM` to the number in your [TelAPI account numbers](http://www.telapi.com/numbers/) (You can set this to another number, such as your own phone and it will cost a little extra. This is what I do.)
 1. Change the value `SMS_TO` to your cell phone
 1. Change the value of `TELAPI_ACCOUNT_SID` to your `Account SID` as found at [your TelAPI dashboard](http://www.telapi.com/dashboard)
