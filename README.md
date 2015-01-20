@@ -89,6 +89,6 @@ Quick video on youtube: http://youtu.be/9AuOZ4iV9zY
 ![Sabra Hummus Single Serve](https://raw.github.com/mattwilliamson/arduino-sms-alarm/master/action_shots/sabra.jpg)
 
 
-Free $25 credit when you sign up for a [TelAPI](http://goo.gl/A36VN) account!
+Free $2 credit when you sign up for a [TelAPI](http://goo.gl/A36VN) account!
 
 
